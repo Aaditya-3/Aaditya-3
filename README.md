@@ -78,25 +78,12 @@ Currently focusing on <b>DSA, Backend Development, and AI-powered systems</b>.
 
 ---
 
-## Cloud / Tools
+## Cloud / DevOps
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adi-3108&show_icons=true&theme=highcontrast"/>
-
-<img src="https://streak-stats.demolab.com?user=Adi-3108&theme=highcontrast"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-3108&layout=compact&theme=highcontrast"/>
-
-</p>
 
 ---
 
